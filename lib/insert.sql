@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Cholcolate", 3, M, "black", "calm", 0)
